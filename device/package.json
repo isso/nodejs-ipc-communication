@@ -1,0 +1,17 @@
+{
+  "name": "lab-device",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-ipc": "^9.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
